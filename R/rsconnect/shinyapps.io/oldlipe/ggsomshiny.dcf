@@ -1,0 +1,12 @@
+name: ggsomshiny
+title: ggsomshiny
+username:
+account: oldlipe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 360543
+bundleId: 1507743
+url: https://oldlipe.shinyapps.io/ggsomshiny/
+when: 1532973197.25754
+asMultiple: FALSE
+asStatic: FALSE
