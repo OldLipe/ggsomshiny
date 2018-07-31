@@ -22,6 +22,7 @@
 
 ## TODO
 - [ ] Remove error code when has no columns selected :hammer:
+- [ ] Add new tab for build som object :hammer:
 
 ## Acknowledgments
 - Rafael Santos
