@@ -9,7 +9,6 @@
 
 ## Quick tutorial
 
----
 
 ### Upload your dataset 
 ![](inst/img/pre_up.png)
@@ -20,7 +19,7 @@
 ![](inst/img/data.png)
 
 ### Visualisations methods
-![] (https://media.giphy.com/media/8mhkIe0oXGdYdmeTam/giphy.gif)
+![](https://media.giphy.com/media/8mhkIe0oXGdYdmeTam/giphy.gif)
 
 
 ## TODO
